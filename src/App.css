@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  margin-bottom: 40px;
+  margin-left: 4px;
+  margin-right: 4px;
+  margin-top: 4px;
+  border: solid;
+  border-width: 20px;
+  border-color: rgb(142, 18, 109);
+  border-style: double; 
+  padding: 24px;
+}
